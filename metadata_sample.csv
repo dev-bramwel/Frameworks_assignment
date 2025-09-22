@@ -1,0 +1,11 @@
+cord_uid,title,abstract,publish_time,authors,journal,source_x
+uid1,COVID-19 and its global impact,This study explores the global impact of COVID-19 on healthcare and society.,2020-03-15,Smith J,The Lancet,Elsevier
+uid2,SARS-CoV-2 transmission dynamics,We analyze the dynamics of SARS-CoV-2 transmission in urban populations.,2020-04-10,Lee K,Nature,Springer
+uid3,Vaccination strategies in pandemics,Vaccination remains a key strategy to prevent pandemics.,2021-01-05,Patel R,Vaccine Journal,Elsevier
+uid4,Mental health challenges during COVID-19,COVID-19 caused a rise in mental health issues worldwide.,2020-08-20,Gomez A,BMJ,BMJ Group
+uid5,Long-term effects of COVID-19,Research on the long-term effects of COVID-19 is ongoing.,2021-05-12,Nguyen T,JAMA,AMA
+uid6,Modeling epidemic spread,Epidemiological models help predict pandemic spread.,2019-12-30,Wang L,Epidemiology Today,Elsevier
+uid7,Healthcare system responses,Healthcare systems faced challenges in response to the pandemic.,2020-07-01,Brown S,Health Systems Review,Springer
+uid8,COVID-19 variants and mutations,COVID-19 variants have altered transmission dynamics.,2021-02-18,Omar M,Science,AAAS
+uid9,Clinical trials in coronavirus research,Clinical trials have been crucial for coronavirus vaccine development.,2020-11-25,Davis P,Clinical Medicine,Wiley
+uid10,Economic consequences of lockdowns,Lockdowns have had significant economic impacts globally.,2021-06-10,Khan F,Economic Studies,Elsevier
